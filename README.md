@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
 
-<h3 align="center">An Enthusiastic Backend Developer From India</h3>
+<h2 align="center">An Enthusiastic Backend Developer From India</h2>
 
 <h1> About Me </h1>
 
