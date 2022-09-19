@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
+
 
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
 
