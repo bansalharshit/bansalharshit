@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Java Language**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-harshitbansal.netlify.app/](https://portfolio-harshitbansal.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bansalharshit.github.io/](https://bansalharshit.github.io/)
 
 - 💬 Ask me about **HTML ,CSS, JavaScript, Java, Spring Boot, MySQL ,DSA**
 
