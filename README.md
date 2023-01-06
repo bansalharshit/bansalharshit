@@ -1,5 +1,5 @@
 
-https://terralogic.com/wp-content/uploads/2021/06/springworl.png
+![image](https://user-images.githubusercontent.com/101393035/210939963-d5eda793-3402-40ce-9f85-b2cb5d007e2e.png)
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
 
 <h2 align="center">An Enthusiastic Backend Developer From India</h2>
