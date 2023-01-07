@@ -24,8 +24,8 @@
 
 - 📫 How to reach me **harshitbansal394@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mSjM5PQBfzmjT7vKe94XKZGrjfdajql3/view?usp=sharing](https://drive.google.com/file/d/1mSjM5PQBfzmjT7vKe94XKZGrjfdajql3/view?usp=sharing)
-
+- 📄 Know about my experiences 
+  https://drive.google.com/file/d/1MLuUDajyl6bwfVIxXwc_ZL9jSeEZfzPw/view
 - ⚡ Fun fact **Ziddi Hu Mein!**
 
 <h3 align="left">Connect with me:</h3>
