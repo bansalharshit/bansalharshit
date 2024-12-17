@@ -11,13 +11,14 @@ In my journey from campus to corporate, I have enhanced my skills in systems pro
 </p>
 
 - 📂 **Professional Projects**  
-  - **Market Data Dissemination**: Worked on a high-performance socket programming-based application to optimize real-time data broadcasting for trading platforms.  
-  - **API Integration**: Integrated Solace APIs for reliable messaging and event streaming, improving system efficiency.  
-  - **FIX Protocol Implementation**: Developed and maintained FIX-based systems to streamline secure trade communication.
+  - **FIX Protocol Communication Suite**: Developed and deployed a suite of applications (FixClient and Fix Server) to enable seamless communication between trading systems and financial exchanges via FIX Protocol.
+  - **Message-Oriented Middleware: Solace Pub/Sub Framework**: Integrated Solace APIs for reliable messaging and event streaming, improving system efficiency.
+    
+  - **TCP-Based Communication Framework**: Developed and maintained TCP Networking based systems to streamline secure trade communication.
 
 - 🌱 I’m currently learning Advanced C++ Concepts, High-Performance Computing, and Microservices Architecture.**
 
-- 👨‍💻 All of my projects are available at [https://bansalharshit.github.io/](https://bansalharshit.github.io/)
+ <!--👨‍💻 All of my projects are available at [https://bansalharshit.github.io/](https://bansalharshit.github.io/)-->
 
 - 💬 Ask me about **I specialize in backend systems and API integrations. Feel free to connect for discussions on systems design or data communication protocols.**
 
