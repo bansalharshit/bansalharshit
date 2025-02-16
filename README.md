@@ -25,7 +25,7 @@ In my journey from campus to corporate, I have enhanced my skills in systems pro
 - 📫 How to reach me **harshitbansal394@gmail.com**
 
 - 📄 Know about my experiences 
-  https://drive.google.com/file/d/1MLuUDajyl6bwfVIxXwc_ZL9jSeEZfzPw/view
+  [https://drive.google.com/file/d/1MLuUDajyl6bwfVIxXwc_ZL9jSeEZfzPw/view](https://drive.google.com/file/d/1dV6wo3F25BIaHQ__RBqNsKQYl0gD6FrY/view?usp=drive_link)
   
 - ⚡  Fun fact: I thrive on solving complex problems and learning new technologies.**
   
