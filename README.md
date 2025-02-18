@@ -31,7 +31,7 @@ In my journey from campus to corporate, I have enhanced my skills in systems pro
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/harshit-bansal-772765149/" target="blank">
+  <a href="https://www.linkedin.com/in/harshitbansal01/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
   </a>
   
