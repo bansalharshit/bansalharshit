@@ -1,41 +1,64 @@
 <h1 align="center">Hi 👋, I'm Harshit Bansal</h1>
-<h2 align="center">A Skilled Software Developer with 2 Years of Experience</h2>
+<h2 align="center">A Skilled Software Developer | 2+ Years of Professional Experience</h2>
 
-<h1> About Me </h1>
-<p>
-I am a passionate Software Developer with 2 years of professional experience at the Bombay Stock Exchange, Mumbai. My expertise lies in backend development, where I have worked on technologies like <strong>C, C++, MFC, FIX Protocol, Socket Programming, Solace API</strong>, and more. I enjoy crafting efficient solutions and am dedicated to optimizing applications for high performance and reliability.
-</p>
+---
 
-<p>
-In my journey from campus to corporate, I have enhanced my skills in systems programming, debugging, and integrating APIs. I'm always eager to learn and implement emerging technologies, aiming to deliver value-driven solutions.
-</p>
+## 🚀 About Me
+I am a passionate **Software Developer** with 2+ years of professional experience, including my role at the **Bombay Stock Exchange, Mumbai**.  
 
-- 📂 **Professional Projects**  
-  - **FIX Protocol Communication Suite**: Developed and deployed a suite of applications (FixClient and Fix Server) to enable seamless communication between trading systems and financial exchanges via FIX Protocol.
-  - **Message-Oriented Middleware: Solace Pub/Sub Framework**: Integrated Solace APIs for reliable messaging and event streaming, improving system efficiency.
-    
-  - **TCP-Based Communication Framework**: Developed and maintained TCP Networking based systems to streamline secure trade communication.
+At BSE, I specialized in **low-latency backend systems** using technologies like **C, C++, MFC, FIX Protocol, Socket Programming, Solace API**, and more. I worked on **trading communication frameworks** ensuring **performance, reliability, and scalability**.  
 
-- 🌱 I’m currently learning Advanced C++ Concepts, High-Performance Computing, and Microservices Architecture.**
+Currently, I am expanding my expertise into **Java and Backend Ecosystem**, working with:  
+- **Java Core & Advanced**  
+- **JDBC, Hibernate, JPA**  
+- **Spring Boot & Spring Security**  
+- **Kafka** for event-driven architecture  
+- **CI/CD pipelines** using Jenkins  
+- **Docker** for containerization  
 
- <!--👨‍💻 All of my projects are available at [https://bansalharshit.github.io/](https://bansalharshit.github.io/)-->
+I enjoy building scalable, reliable applications and I’m constantly learning new technologies to stay ahead in the fast-paced world of software development.
 
-- 💬 Ask me about **I specialize in backend systems and API integrations. Feel free to connect for discussions on systems design or data communication protocols.**
+---
 
-- 📫 How to reach me **harshitbansal394@gmail.com**
+## 📂 Featured Projects
 
-- 📄 Know about my experiences 
-  [https://drive.google.com/file/d/1MLuUDajyl6bwfVIxXwc_ZL9jSeEZfzPw/view](https://drive.google.com/file/d/1dV6wo3F25BIaHQ__RBqNsKQYl0gD6FrY/view?usp=drive_link)
-  
-- ⚡  Fun fact: I thrive on solving complex problems and learning new technologies.**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshitbansal01/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
-  </a>
-  
-  <a href="mailto:harshitbansal394@gmail.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
-  </a>
-</p>
+### 🏥 Hospital Management System  
+- A **backend Java project** built with **Spring Boot, Hibernate, JPA, MySQL**.  
+- Implements **patient, doctor, appointment & billing management**.  
+- Features **authentication, role-based access, and REST APIs**.  
+
+### 💬 VibeLink – Real-Time Chat Application  
+- A **Discord-like chat system** using **Spring Boot 3, WebSockets, MongoDB**.  
+- Supports **chat rooms, instant messaging, and user session management**.  
+- Lightweight **frontend built with HTML, CSS, JavaScript**.  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Java & Microservices Architecture  
+- Kafka & Event-Driven Systems  
+- CI/CD Automation with Jenkins  
+- Containerization & Orchestration (Docker, Kubernetes)  
+
+---
+
+## 💬 Ask Me About
+- **Backend systems** and **API integrations**  
+- **Systems programming & networking** (C, C++, FIX Protocol)  
+- **Java, Spring Boot, Hibernate, WebSockets, Kafka**  
+
+---
+
+## 📫 How to Reach Me
+- Email: **harshitbansal394@gmail.com**  
+- LinkedIn: [linkedin.com/in/harshitbansal01](https://www.linkedin.com/in/harshitbansal01/)  
+
+---
+
+## 📄 Know More About My Experience
+[View Resume](https://drive.google.com/file/d/1dV6wo3F25BIaHQ__RBqNsKQYl0gD6FrY/view?usp=drive_link)
+
+---
+
+## ⚡ Fun Fact
+I thrive on solving **complex problems**, debugging **low-level systems**, and building **high-performance applications**.
