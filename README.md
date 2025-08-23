@@ -56,7 +56,7 @@ I enjoy building scalable, reliable applications and I’m constantly learning n
 ---
 
 ## 📄 Know More About My Experience
-[View Resume](https://drive.google.com/file/d/1dV6wo3F25BIaHQ__RBqNsKQYl0gD6FrY/view?usp=drive_link)
+[View Resume](https://drive.google.com/file/d/1z8SRXQEMGWW36rN_EyZUiWdr01MbNh08/view?usp=drive_link)
 
 ---
 
